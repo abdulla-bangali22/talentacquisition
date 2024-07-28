@@ -1,0 +1,56 @@
+h1 {
+   color: red;
+}
+
+P {
+   color: black;
+}
+table,th,td {
+    border: 1px solid black;
+}
+th, td {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 10px;
+}
+div.z {
+    text-align: Center;
+}
+div.m {
+    text-align: right;
+}
+div.e {
+    text-align: justify;
+}
+div.f {
+    text-align: justify;
+}
+div.g {
+    text-align: justify;
+}
+div.h {
+    text-align: justify;
+}
+div.i {
+    text-align: justify;
+}
+div.j {
+    text-align: justify;
+}
+div.k {
+    text-align: justify;
+}
+div.l {
+    text-align: justify;
+}
+div.n {
+    text-align: justify;
+}
+div.q {
+    text-align: justify;
+}
+.center {
+   margin-left: auto;
+   margin-right: auto;
+}
